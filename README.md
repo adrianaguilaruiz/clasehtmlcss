@@ -1,3 +1,3 @@
 # clasehtmlcss
 
-Proyecto de clase html FemCoders Málaga
+Classroom project html and css FemCoders Málaga
